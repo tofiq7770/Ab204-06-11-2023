@@ -1,0 +1,5 @@
+C:\Users\tofiq\Desktop\Ab104-11-06-2023\Ab104-11-06-2023\Ab104-11-06-2023\obj\Debug\net6.0\Ab104-11-06-2023.csproj.AssemblyReference.cache
+C:\Users\tofiq\Desktop\Ab104-11-06-2023\Ab104-11-06-2023\Ab104-11-06-2023\obj\Debug\net6.0\Ab104-11-06-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\Desktop\Ab104-11-06-2023\Ab104-11-06-2023\Ab104-11-06-2023\obj\Debug\net6.0\Ab104-11-06-2023.AssemblyInfoInputs.cache
+C:\Users\tofiq\Desktop\Ab104-11-06-2023\Ab104-11-06-2023\Ab104-11-06-2023\obj\Debug\net6.0\Ab104-11-06-2023.AssemblyInfo.cs
+C:\Users\tofiq\Desktop\Ab104-11-06-2023\Ab104-11-06-2023\Ab104-11-06-2023\obj\Debug\net6.0\Ab104-11-06-2023.csproj.CoreCompileInputs.cache
